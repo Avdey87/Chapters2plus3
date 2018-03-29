@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapters2plus3</string>
+    <array name="contries">
+        <item>Germany</item>
+        <item>Koreya</item>
+        <item>Japan</item>
+    </array>
+
+</resources>
